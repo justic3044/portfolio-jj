@@ -19,6 +19,9 @@ ul {
     top: 0;
     background-color: grey; 
     padding: 10px; 
+    display: flex;
+    justify-content: center; 
+    margin-left: auto;
 }
 .container {
     max-width: 800px;
